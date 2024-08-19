@@ -1,8 +1,9 @@
 👋 Hi, I'm Daniel Carmona, but people know me as Dani.
 
-- 🏡 I was born in Barcelona, Spain, but I now live in Andorra.
+- 🏡 I was born in Barcelona, Spain.
 - ❤️ I love starting projects from scratch.
-- 🚀 I started my first company at age 18. I haven't stopped launching new things since then. Last company I built is [Rapidand](https://rapidand.com), which is the only e-commerce in Andorra.
+- 🚀 Bootstraped [Rapidand](https://rapidand.com), the only e-commerce in Andorra, to +15M in ARR.
+- 💪 Did YC S22 with [Aldara](https://aldara.com), the modern version of an HOA manager.
 - 🖌️ I like sketching and I paint watercolors.
 - 🎹 I have multiple pianos and syntesizers, guitars, ukeleles, harmonicas and microphones. Also a flute and a saxophone. I play them all, but none very well.
 - ⛵ I sail as much as I can. I've sailed from Venice to Barcelona. I spend at least 3 weeks in the water every year. I can also hold my breath for 3 minutes and dive 20m deep.
